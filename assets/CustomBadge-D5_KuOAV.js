@@ -1,0 +1,1 @@
+import{j as s,i as e}from"./vendor-mantine-DKoUpolb.js";const i=({children:o,...t})=>s.jsx(e,{bg:"black",color:"white",variant:"filled",p:"md",px:50,size:"xl",style:{borderBottomLeftRadius:"16px",borderTopRightRadius:"16px"},...t,children:o});export{i as C};
