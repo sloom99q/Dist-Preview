@@ -1,0 +1,1 @@
+import{j as e,e as s}from"./vendor-mantine-CFGezjlA.js";const r=({children:o,...t})=>e.jsx(s,{bg:"black",color:"white",variant:"filled",p:"md",px:50,size:"xl",style:{borderBottomLeftRadius:"16px",borderTopRightRadius:"16px"},...t,children:o});export{r as C};
